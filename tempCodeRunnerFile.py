@@ -1,1 +1,0 @@
-self.setGeometry(100, 100, 800, 600)
